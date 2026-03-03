@@ -1,0 +1,5 @@
+{
+  "name": "芒硝染料計算器",
+  "description": "專業染色配方計算工具，根據芒硝重量、目標百分比及染料重量快速計算 X 值。",
+  "requestFramePermissions": []
+}
